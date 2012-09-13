@@ -1,0 +1,4 @@
+Name        : Schema Analyzer
+Description : Relational database schema analyzer.
+
+Given a set of functional dependencies, this program will report all implied relationships under the closure of the set of functional dependencies. It will also report if the schema is 3NF, BCNF and what keys are super or candidate.
